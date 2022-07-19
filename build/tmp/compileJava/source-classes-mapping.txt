@@ -1,0 +1,9 @@
+pos/machine/ItemDataLoader.java
+ pos.machine.ItemDataLoader
+pos/machine/PosMachine.java
+ pos.machine.PosMachine
+pos/machine/Receipt.java
+ pos.machine.Receipt
+ pos.machine.Receipt$ReceiptItem
+pos/machine/ItemInfo.java
+ pos.machine.ItemInfo
